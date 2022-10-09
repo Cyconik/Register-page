@@ -1,0 +1,21 @@
+.container{
+    color: aqua;
+    border-style: double;
+    height: auto;
+    width: auto;
+    overflow: auto;
+}
+
+.col-sm-7{
+    background-color: whitesmoke;
+    width: auto;   
+}
+
+#button{
+    color: white;
+    border-radius: 25px;
+    height: 40px;
+    width: 150px;
+    border: 0px;
+}
+
